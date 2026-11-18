@@ -15,6 +15,7 @@ A Bash script that reports basic server performance statistics on Linux systems.
 ## Project URL
 
 https://github.com/shreesh3107/Server-Performance-Stats
+https://github.com/shreesh3107/Server-Performance-Stats/blob/main/server-stats.sh
 
 ## Requirements
 
